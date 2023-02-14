@@ -5,3 +5,6 @@
 
 # Install brew dependencies
 brew bundle
+
+# Open Project in Xcode
+xed Package.swift
